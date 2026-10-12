@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Amjad Bsat</title>
+  <desc id="desc">AI and machine learning student. Building intelligent systems in Paris.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1020"/><stop offset="1" stop-color="#19142E"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#67E8F9"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#A78BFA" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <path d="M64 73H120" stroke="url(#accent)" stroke-width="4"/>
+  <text x="138" y="79" font-family="monospace" font-size="14" letter-spacing="3" fill="#A5B4CC">LEARNING / BUILDING / ITERATING</text>
+  <text x="60" y="177" font-family="Segoe UI,Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="-3" fill="#F1F5F9">AMJAD BSAT<tspan fill="#A78BFA">.</tspan></text>
+  <text x="64" y="226" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#B9C5DC">AI &amp; Machine Learning · Software Development</text>
+  <text x="64" y="291" font-family="monospace" font-size="15" fill="#67E8F9">EPITA, PARIS  /  FROM DATA TO INTELLIGENT SYSTEMS</text>
+  <g fill="none" stroke="url(#accent)" stroke-width="1.5" opacity=".5">
+    <path d="M910 80L1050 125L1120 230L990 292L880 218Z M910 80L990 292 M1050 125L880 218 M910 80L1120 230 M1050 125L990 292 M880 218L1120 230"/>
+    <circle cx="995" cy="181" r="110" stroke-opacity=".3"/>
+    <circle cx="995" cy="181" r="140" stroke-opacity=".15"/>
+  </g>
+  <g fill="#67E8F9"><circle cx="910" cy="80" r="6"/><circle cx="1120" cy="230" r="6"/><circle cx="880" cy="218" r="6"/></g>
+  <g fill="#A78BFA"><circle cx="1050" cy="125" r="7"/><circle cx="990" cy="292" r="7"/></g>
+  <rect x="64" y="338" width="1072" height="2" fill="url(#accent)" opacity=".5"/>
+</svg>
