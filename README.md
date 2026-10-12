@@ -53,9 +53,9 @@ I enjoy turning data and ideas into practical applications—from machine learni
 ### Activity, one contribution at a time
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amjad-dev45/Amjad-dev45/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amjad-dev45/Amjad-dev45/output/github-snake.svg" />
-  <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/Amjad-dev45/Amjad-dev45/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amjad-dev45/Amjad-dev45/output/github-snake-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amjad-dev45/Amjad-dev45/output/github-snake.svg?v=1" />
+  <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/Amjad-dev45/Amjad-dev45/output/github-snake.svg?v=1" width="100%" />
 </picture>
 
 <details>
