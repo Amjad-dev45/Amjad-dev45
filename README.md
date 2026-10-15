@@ -48,7 +48,7 @@ I enjoy turning data and ideas into practical applications—from machine learni
 | :--- | :--- | :--- |
 | **🏎️ F1 Race Prediction** | An end-to-end race prediction project combining machine learning, data pipelines, model tracking, and a prediction interface. | Python · Docker · Airflow · MLflow · Streamlit |
 | **🤖 EU AI Act RAG Agent** | A team-built document assistant with evidence retrieval, page citations, source highlighting, conversation memory, and evaluation. | Python · FAISS · OpenAI API · Gradio · SQLite |
-| **👁️ Face Recognition Attendance** | A computer vision system that identifies registered users and records attendance. | Python · OpenCV · Computer Vision |
+| **👁️ [Attendly — Face Recognition Attendance](https://github.com/Amjad-dev45/Attendly-Face-Recognition-Attendance-System)** | An attendance prototype with browser-based face enrollment and webcam matching, student and course management, persistent attendance sessions, and CSV reports. Includes an interactive simulation mode. | React · Node.js · face-api.js |
 
 ### Activity, one contribution at a time
 
