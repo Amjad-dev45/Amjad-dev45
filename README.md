@@ -29,7 +29,7 @@ I enjoy turning data and ideas into practical applications—from machine learni
 ![Java](https://img.shields.io/badge/Java-151A2D?style=for-the-badge&logo=openjdk&logoColor=A78BFA)
 ![JavaScript](https://img.shields.io/badge/JavaScript-151A2D?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-151A2D?style=for-the-badge&logo=postgresql&logoColor=67E8F9)
-![C](https://img.shields.io/badge/C-151A2D?style=for-the-badge&logo=c&logoColor=A78BFA)
+
 
 **AI, applications & infrastructure**
 
